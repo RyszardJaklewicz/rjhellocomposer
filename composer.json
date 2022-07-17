@@ -1,8 +1,8 @@
 {
-    "name": "ryszard-jaklewicz/hello-composer",
+    "name": "ryszard-jaklewicz/rjhello-composer",
     "description": "A short description of what your package does",
     "require": {
         "php": ">=7.4",
-        "ryszard-jaklewicz/hello-composer": "dev-main"
+        "ryszard-jaklewicz/rjhello-composer": "dev-main"
     }
 }
