@@ -5,6 +5,6 @@
     "minimum-stability": "stable",
     "require": {
         "php": ">=7.4",
-        "ryszardjaklewicz/rjhellocomposer": ""
+        "ryszardjaklewicz/rjhellocomposer": "dev-main"
     }
 }
