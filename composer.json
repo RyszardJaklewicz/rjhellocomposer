@@ -1,5 +1,6 @@
 {
     "name": "ryszardjaklewicz/rjhellocomposer",
+    "version": "1.0",
     "description": "A short description of what your package does",
     "minimum-stability": "stable",
     "require": {
