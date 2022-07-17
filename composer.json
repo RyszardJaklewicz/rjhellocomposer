@@ -1,6 +1,7 @@
 {
     "name": "ryszardjaklewicz/rjhellocomposer",
     "description": "A short description of what your package does",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.4",
         "ryszardjaklewicz/rjhellocomposer": "dev-main"
